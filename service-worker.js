@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cienciasBCSApp/precache-manifest.c4b481c9fe12b771b0b5d90d97d6bebe.js"
+  "/cienciasBCSApp/precache-manifest.9c0eedf43d48c137310dae4e7692f645.js"
 );
 
 self.addEventListener('message', (event) => {
