@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e96710acaf97b93379397fd13ff2271",
+    "revision": "281d467ba23769f2c4e545c18fb377fc",
     "url": "/cienciasBCSApp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cienciasBCSApp/static/css/2.1e0304ae.chunk.css"
   },
   {
-    "revision": "3bca4e3d4d2bdf0ce087",
+    "revision": "e3fd294e0e8857e622ee",
     "url": "/cienciasBCSApp/static/css/main.6810c0bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cienciasBCSApp/static/js/2.a9e1bd0a.chunk.js"
   },
   {
-    "revision": "3bca4e3d4d2bdf0ce087",
-    "url": "/cienciasBCSApp/static/js/main.7abb2c0e.chunk.js"
+    "revision": "e3fd294e0e8857e622ee",
+    "url": "/cienciasBCSApp/static/js/main.a2e3a6c9.chunk.js"
   },
   {
     "revision": "6ca03aeb192e8ffea125",
