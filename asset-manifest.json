@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cienciasBCSApp/static/css/main.6810c0bb.chunk.css",
+    "main.js": "/cienciasBCSApp/static/js/main.d940a05b.chunk.js",
+    "main.js.map": "/cienciasBCSApp/static/js/main.d940a05b.chunk.js.map",
+    "runtime~main.js": "/cienciasBCSApp/static/js/runtime~main.29831e87.js",
+    "runtime~main.js.map": "/cienciasBCSApp/static/js/runtime~main.29831e87.js.map",
+    "static/css/2.1e0304ae.chunk.css": "/cienciasBCSApp/static/css/2.1e0304ae.chunk.css",
+    "static/js/2.6bca53a0.chunk.js": "/cienciasBCSApp/static/js/2.6bca53a0.chunk.js",
+    "static/js/2.6bca53a0.chunk.js.map": "/cienciasBCSApp/static/js/2.6bca53a0.chunk.js.map",
+    "index.html": "/cienciasBCSApp/index.html",
+    "precache-manifest.99f813fc5ecef4ac4e9056ba2e6ad458.js": "/cienciasBCSApp/precache-manifest.99f813fc5ecef4ac4e9056ba2e6ad458.js",
+    "service-worker.js": "/cienciasBCSApp/service-worker.js",
+    "static/css/2.1e0304ae.chunk.css.map": "/cienciasBCSApp/static/css/2.1e0304ae.chunk.css.map",
+    "static/css/main.6810c0bb.chunk.css.map": "/cienciasBCSApp/static/css/main.6810c0bb.chunk.css.map",
+    "static/media/flaticon.css": "/cienciasBCSApp/static/media/Flaticon.db9a5fdf.ttf",
+    "static/media/App.css": "/cienciasBCSApp/static/media/now-thin.894eaf68.otf",
+    "static/media/style.css": "/cienciasBCSApp/static/media/slide-3.1cfd2bc3.jpg",
+    "static/media/en-construccion.jpg": "/cienciasBCSApp/static/media/en-construccion.5756a636.jpg",
+    "static/media/font-awesome.min.css": "/cienciasBCSApp/static/media/fontawesome-webfont.e6cf7c6e.woff2",
+    "static/media/slick-theme.css": "/cienciasBCSApp/static/media/slick.f97e3bbf.svg",
+    "static/media/themify-icons.css": "/cienciasBCSApp/static/media/themify.e23a7dca.ttf"
+  }
+}
