@@ -1,7 +1,7 @@
 {
   "name": "ummah",
   "version": "0.1.0",
-  "homepage": "https://renefernandoom.github.io/cienciasBCSApp",
+  "homepage": "https://renefernandoom.github.io/cienciasBCSApp/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",

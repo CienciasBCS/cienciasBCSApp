@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route, BrowserRouter } from 'react-router-dom'
 
 import Homepage from '../HomePage'
 import Homepage2 from '../HomePage2'
@@ -31,9 +31,9 @@ const AllRoute = () => {
 
   return (
     <div className="App">
-      <Router>
+      <BrowserRouter basename={window.location.pathname || ''}>
         <Switch>
-          <Route exact path='/' component={ConstructionPage} />
+          <Route exact path='/' component={Homepage3} />
           <Route path='/home' component={Homepage3} />
           <Route path='/home2' component={Homepage2} />
           <Route path='/home3' component={Homepage3} />
@@ -66,7 +66,7 @@ const AllRoute = () => {
           <Route path='/signup' component={SignUpPage} />
           <Route path='/forgot-password' component={ForgotPassword} />
         </Switch>
-      </Router>
+      </BrowserRouter>
 
     </div>
   );
