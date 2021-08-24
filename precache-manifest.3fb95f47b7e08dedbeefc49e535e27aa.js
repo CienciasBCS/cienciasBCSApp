@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "281d467ba23769f2c4e545c18fb377fc",
+    "revision": "d8129ee5c2d39eb9673b12fbd31fc35e",
     "url": "/cienciasBCSApp/index.html"
   },
   {
-    "revision": "681cd69fd8bb2adfb541",
+    "revision": "8b3ce35d11e60dfd45ee",
     "url": "/cienciasBCSApp/static/css/2.1e0304ae.chunk.css"
   },
   {
-    "revision": "e3fd294e0e8857e622ee",
+    "revision": "bfeab332a7a328755fc2",
     "url": "/cienciasBCSApp/static/css/main.6810c0bb.chunk.css"
   },
   {
-    "revision": "681cd69fd8bb2adfb541",
-    "url": "/cienciasBCSApp/static/js/2.a9e1bd0a.chunk.js"
+    "revision": "8b3ce35d11e60dfd45ee",
+    "url": "/cienciasBCSApp/static/js/2.8d1b194e.chunk.js"
   },
   {
-    "revision": "e3fd294e0e8857e622ee",
-    "url": "/cienciasBCSApp/static/js/main.a2e3a6c9.chunk.js"
+    "revision": "bfeab332a7a328755fc2",
+    "url": "/cienciasBCSApp/static/js/main.629e447a.chunk.js"
   },
   {
     "revision": "6ca03aeb192e8ffea125",
