@@ -5,6 +5,8 @@ import Service2 from '../../components/Service2'
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
 import service1 from '../../images/service/img-3.png'
+import LCCFLogo from '../../images/alianzas/LCCF-Logo.png'
+import ICMLogo from '../../images/alianzas/ICM-Logo.png'
 
 
 const ServicePage = (props) => {
@@ -29,8 +31,8 @@ const ServicePage = (props) => {
         alianzas: {
             title: 'Alianzas', subTitle: 'Conócelos', secTitle: 'Nuestros aliados',
             contenido: [
-                { simg: service1, title: 'LCCF', link: '#' },
-                { simg: service1, title: 'ICM', link: '#' },
+                { simg: LCCFLogo, title: 'LCCF', link: '#' },
+                { simg: ICMLogo, title: 'ICM', link: '#' },
             ]
         },
     }
