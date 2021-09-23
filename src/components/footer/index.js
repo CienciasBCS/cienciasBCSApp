@@ -23,9 +23,9 @@ const Footer = (props) => {
                                         <img src={Logo} alt="" />
                                     </div>
                                     <ul>
-                                        <li><Link onClick={ClickHandler} to="/"><i className="ti-facebook"></i></Link></li>
+                                        <li><a href="https://www.facebook.com/CIENCIASBCS"><i className="ti-facebook"></i></a></li>
                                         {/* <li><Link onClick={ClickHandler} to="/"><i className="ti-twitter-alt"></i></Link></li> */}
-                                        <li><Link onClick={ClickHandler} to="/"><i className="ti-instagram"></i></Link></li>
+                                        <li><a href="https://www.instagram.com/cienciasbcs/"><i className="ti-instagram"></i></a></li>
                                         {/* <li><Link onClick={ClickHandler} to="/"><i className="ti-google"></i></Link></li> */}
                                     </ul>
                                 </div>
