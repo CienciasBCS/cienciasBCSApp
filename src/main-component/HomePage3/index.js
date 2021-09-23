@@ -15,7 +15,7 @@ import evn2 from '../../images/event/img-2.jpg'
 import blog1 from '../../images/blog/img-1.jpg'
 import blog2 from '../../images/blog/img-2.jpg'
 import blog3 from '../../images/blog/img-3.jpg'
-import hero1 from '../../images/slider/img-2.png'
+import hero1 from '../../images/home/hero-img.png'
 
 const HomePage3 = () => {
     return (
@@ -24,10 +24,10 @@ const HomePage3 = () => {
             <Hero HeroStyleClass={'hero-style-3'} heroImg={hero1} />
             <About aboutImg={abimg} />
             <Course />
-            <Pilars />
+            {/* <Pilars /> */}
             <EventSection eventImg1={evn1} eventImg2={evn2} />
             <Support />
-            <BlogSection blogImg1={blog1} blogImg2={blog2} blogImg3={blog3} />
+            {/* <BlogSection blogImg1={blog1} blogImg2={blog2} blogImg3={blog3} /> */}
             <Footer />
             <Scrollbar />
         </Fragment>

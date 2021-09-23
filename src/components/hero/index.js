@@ -27,15 +27,15 @@ const Hero = (props) => {
                         </div>
                     </div>
                     <div className="right-vec">
-                        <img src={props.heroImg} alt="" />
-                        <div className="right-border">
+                        <img src={props.heroImg} alt="" className="shadow rounded" />
+                        {/* <div className="right-border">
                             <div className="right-icon"><i className="fi flaticon-quran"></i></div>
                             <div className="right-icon"><i className="fi flaticon-taj-mahal-1"></i></div>
                             <div className="right-icon"><i className="fi flaticon-allah-word"></i></div>
                             <div className="right-icon"><i className="fi flaticon-muhammad-word"></i></div>
                             <div className="right-icon"><i className="fi flaticon-prayer"></i></div>
                             <div className="right-icon"><i className="fi flaticon-business-and-finance"></i></div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

@@ -817,16 +817,16 @@
     right: 231px;
     top: 20%;
     z-index: 11;
-    width: 565px;
-    height: 565px;
+    width: 650px;
+    height: 650px;
 }
 
-.hero-style-2 img,
+/* .hero-style-2 img,
 .hero-style-3 img,
 .hero-style-4 img,
 .hero-style-5 img {
     animation: bounce 3s linear infinite;
-}
+} */
 
 .right-border {
     position: absolute;

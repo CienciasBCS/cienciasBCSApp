@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import supportImg from '../../images/home/ausencia_de_salud_mirror-lg.png'
 import './style.css'
 
 const Support = (props) => {
@@ -26,6 +27,7 @@ const Support = (props) => {
                         </div>
                     </div>
                     <div className="col-lg-6">
+                        <img src={supportImg} alt="" />
                     </div>
                 </div>
             </div>

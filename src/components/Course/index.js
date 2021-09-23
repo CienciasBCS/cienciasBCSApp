@@ -13,17 +13,17 @@ const Course = (props) => {
     const courses = [
         {
             cIcon: icon1,
-            heading: "Diagnóstico de Salud en menores de edad",
+            heading: "Salud y bienestar",
             pra: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor erat quis quam luctus, nec consequat nunc mattis. In convallis commodo mi ac euismod. Nullam.",
         },
         {
             cIcon: icon2,
-            heading: "Observatorio de transición energética",
+            heading: "Comunidades marinas",
             pra: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor erat quis quam luctus, nec consequat nunc mattis. In convallis commodo mi ac euismod. Nullam.",
         },
         {
             cIcon: icon3,
-            heading: "Plataforma de Encuestas, Visualización y Análisis",
+            heading: "Agua, comida y energía",
             pra: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor erat quis quam luctus, nec consequat nunc mattis. In convallis commodo mi ac euismod. Nullam.",
         },
     ]
@@ -34,7 +34,7 @@ const Course = (props) => {
                     <div className="col-12">
                         <div className="wpo-section-title">
                             {/* <span>Top Courses</span> */}
-                            <h2>Proyectos y servicios</h2>
+                            <h2>Líneas de acción</h2>
                         </div>
                     </div>
                 </div>

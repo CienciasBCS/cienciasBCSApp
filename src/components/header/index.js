@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/logo-header.png'
 import { Link } from 'react-router-dom'
 import HeaderTopbar from '../HeaderTopbar'
 import MobileMenu from '../../components/MobileMenu'
@@ -38,12 +38,6 @@ const Header = () => {
                                             {/* <ul>
                                                 <li><Link onClick={ClickHandler} to="/service" title="">service</Link></li>
                                                 <li><Link onClick={ClickHandler} to="/service-single" title="">service-single</Link></li>
-                                            </ul> */}
-                                        </li>
-                                        <li><Link onClick={ClickHandler} to="/home" title="">Servicios</Link>
-                                            {/* <ul>
-                                                <li><Link onClick={ClickHandler} to="/event" title="">event</Link></li>
-                                                <li><Link onClick={ClickHandler} to="/event-single" title="">Event Single</Link></li>
                                             </ul> */}
                                         </li>
                                         <li><Link onClick={ClickHandler} to="/alianzas" title="">Alianzas</Link>

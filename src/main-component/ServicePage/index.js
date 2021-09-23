@@ -31,8 +31,8 @@ const ServicePage = (props) => {
         alianzas: {
             title: 'Alianzas', subTitle: 'Conócelos', secTitle: 'Nuestros aliados',
             contenido: [
-                { simg: LCCFLogo, title: 'LCCF', link: '#' },
-                { simg: ICMLogo, title: 'ICM', link: '#' },
+                { simg: LCCFLogo, title: 'LCCF', link: 'https://www.loscaboschildren.org/es/' },
+                { simg: ICMLogo, title: 'ICM', link: 'http://www.iniciativaclimatica.org/' },
             ]
         },
     }

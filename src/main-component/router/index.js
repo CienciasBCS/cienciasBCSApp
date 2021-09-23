@@ -7,6 +7,7 @@ import Homepage3 from '../HomePage3'
 import Homepage4 from '../HomePage4'
 import AboutPage from '../AboutPage'
 import ServicePage from '../ServicePage'
+import ProjectPage from '../ProjectPage';
 import ShopPage from '../ShopPage'
 import ShopSinglePage from '../ShopSinglePage'
 import ServiceSinglePage from '../ServiceSinglePage'
@@ -43,7 +44,7 @@ const AllRoute = () => {
             <ServicePage {...props} section={'nosotros'} />
           )} />
           <Route path='/proyectos' render={(props) => (
-            <ServicePage {...props} section={'proyectos'} />
+            <ProjectPage {...props} />
           )} />
           <Route path='/alianzas' render={(props) => (
             <ServicePage {...props} section={'alianzas'} />
