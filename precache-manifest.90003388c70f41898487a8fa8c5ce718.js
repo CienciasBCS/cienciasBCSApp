@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "639d8fad6505dcd204e54447949e0d3f",
+    "revision": "2a836b4f0ba20a628efba018fd0caaaa",
     "url": "/cienciasBCSApp/index.html"
   },
   {
-    "revision": "c2260a4ae72e1e98fdac",
+    "revision": "95f0e2e7fa0581b57d2f",
     "url": "/cienciasBCSApp/static/css/2.1e0304ae.chunk.css"
   },
   {
-    "revision": "91b6d6a4fdab35adb937",
-    "url": "/cienciasBCSApp/static/css/main.6810c0bb.chunk.css"
+    "revision": "7e8e77926df47bc087dc",
+    "url": "/cienciasBCSApp/static/css/main.7fcb3e22.chunk.css"
   },
   {
-    "revision": "c2260a4ae72e1e98fdac",
-    "url": "/cienciasBCSApp/static/js/2.c0b84d65.chunk.js"
+    "revision": "95f0e2e7fa0581b57d2f",
+    "url": "/cienciasBCSApp/static/js/2.baabf1ba.chunk.js"
   },
   {
-    "revision": "91b6d6a4fdab35adb937",
-    "url": "/cienciasBCSApp/static/js/main.52156275.chunk.js"
+    "revision": "7e8e77926df47bc087dc",
+    "url": "/cienciasBCSApp/static/js/main.da39754c.chunk.js"
   },
   {
     "revision": "6ca03aeb192e8ffea125",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cienciasBCSApp/static/media/Now-Bold.65e782dd.ttf"
   },
   {
+    "revision": "e163793d927de868baee54aa97b1b577",
+    "url": "/cienciasBCSApp/static/media/ausencia_de_salud_mirror-lg.e163793d.png"
+  },
+  {
     "revision": "3a0b6dbce353d3a1d773c85db41cacd8",
     "url": "/cienciasBCSApp/static/media/bg.3a0b6dbc.png"
   },
@@ -90,6 +94,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e6cf7c6ec7c2d6f670ae9d762604cb0b",
     "url": "/cienciasBCSApp/static/media/fontawesome-webfont.e6cf7c6e.woff2"
+  },
+  {
+    "revision": "a2ec684d387185e4c3580cd8157f294d",
+    "url": "/cienciasBCSApp/static/media/hero-img.a2ec684d.png"
+  },
+  {
+    "revision": "05426d840c3534077e140684e1b618cf",
+    "url": "/cienciasBCSApp/static/media/logo-2.05426d84.png"
+  },
+  {
+    "revision": "9bc343102a171e84ac009ad5f4acfbf7",
+    "url": "/cienciasBCSApp/static/media/logo-header.9bc34310.png"
+  },
+  {
+    "revision": "99c166dc47ecee122211d50a69acc4c7",
+    "url": "/cienciasBCSApp/static/media/logo-lg.99c166dc.png"
   },
   {
     "revision": "9507a037d06eb23fcb282cf7e0954c63",
